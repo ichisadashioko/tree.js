@@ -45,5 +45,3 @@ const walk = (module, prefix, counts) => {
 }
 
 const counts = { modules: 0, props: 0 };
-
-walk(enchant, '', counts)
