@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "checkJs": true,
+        "outDir": "dist",
+    },
+    "typeAcquisition": {
+        "enable": true,
+    },
+}
